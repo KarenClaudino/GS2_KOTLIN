@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.GS2_2025_RM99428_RM99995" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
